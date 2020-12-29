@@ -7,7 +7,7 @@ After 11 years of existence of the Association of Students of Mathematics and In
 
 * Functions & Procedures
 * Triggers
-* Simple data structures: vectors, indexed tables, nested tables 
+* Simple data structures: arrays, indexed tables, nested tables 
 * Multi-level collections
 
 
